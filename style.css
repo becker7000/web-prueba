@@ -1,0 +1,18 @@
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    background-color: gainsboro;
+}
+
+h1{
+    color: darkblue;
+    padding: 20px;
+}
+
+p{
+    color: brown;
+    padding: 8px;
+}
